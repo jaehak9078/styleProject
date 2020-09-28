@@ -30,3 +30,17 @@
 ### 라이브러리
 
 - npm install --save styled-components
+
+### Git 관리
+
+- git init (박스 세개 만들기)
+- git add . (두번째 박스로 옮기기 - 사진찍기)
+- git commit -m "1. v1" (세번째 박스로 옮기기 - 사진첩 옮기기)
+
+- github에 저장소 만들기(주소: www.hello.com)
+
+- git remote add origin www.hello.com (원격지 연결)
+- git push origin master(만약 안되면 강제로 -f를 붙이면 올라감) (업로드)
+
+- git pull origin master(다운로드)
+- npm install(node_modules 다운로드, 의존성 다운로드, 새로운 라이브러리가 추가 되었을때만 하면 됨.)
